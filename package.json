@@ -1,0 +1,15 @@
+{
+  "name": "belajar-typescript",
+  "version": "1.0.0",
+  "description": "belajar typescript",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aizul fadin",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  }
+}
